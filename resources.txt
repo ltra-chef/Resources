@@ -1,0 +1,8 @@
+TOOLS:
+  Nmap
+  ncat
+  hydra
+  Gobuster
+  Metasploit 
+  Payload All The Things
+  GTFObin
